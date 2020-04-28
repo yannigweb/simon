@@ -1,5 +1,4 @@
-"""Projet NSI
-Jeu de mémoire SIMON
+"""Projet NSI - Jeu de mémoire SIMON
 Codé par Y. SALAUN le 26/04/2020"""
 
 import pygame,sys
@@ -9,9 +8,13 @@ import pygame.locals as GAME_GLOBALS
 pygame.init()
 
 jaune=(255,255,0)
+jaune2=(255,255,107)
 rouge=(255,0,0)
+rouge2=(233,56,63)
 vert=(0,255,0)
+vert2=(84,249,141)
 bleu=(0,0,255)
+bleu2=(0,127,255)
 blanc=(255,255,255)
 noir=(0,0,0)
 
