@@ -11,3 +11,9 @@ Semaine 2 :
 changement de couleur lors du clic de souris
 -- Ajout du son 
 
+Semaine 3 : 
+-- comment enregistrer une séquence jouée par l'utilisateur ?
+-- comment générer une séquence aléatoire de plus en plus longue ? 
+-- comment comparer les deux séquences ?
+
+Semaine 4 : 
