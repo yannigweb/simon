@@ -1,0 +1,13 @@
+Avancement du projet SIMON : 
+
+Semaine 1 :
+- installation des outils de développement un IDE Python et la bibliothèque Pygame.
+- Construction de l'interface graphique : création de la fenêtre, division en 4 zones et couleurs de chaque zone.
+- Activer les événements pour pouvoir fermer proprement la fenêtre.
+
+Semaine 2 : 
+- Interactions utilisateur :
+-- Ajout des couleurs pâles et détection des clics de souris dans les zones ( utilisation des objets Rect de Pygame ), 
+changement de couleur lors du clic de souris
+-- Ajout du son 
+
